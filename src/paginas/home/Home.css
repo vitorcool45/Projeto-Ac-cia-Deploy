@@ -1,0 +1,83 @@
+.fundo{
+    background-image: url(https://acegif.com/wp-content/gifs/water-43.gif);
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.fonteHome2{
+    font-family: 'The Girl Next Door', sans-serif!important;
+    font-weight: bolder!important;
+    font-size: 30px!important;
+    text-align: center;
+    color: "#27828C";
+}
+
+.fontHome1{
+    font-family: 'EB Garamond', sans-serif!important;
+    text-align: center;
+    color: "#011C26";
+    text-shadow: 3px 3px 3px white ;
+}
+
+.titulo1{
+    color: white; 
+    font-family: 'EB Garamond', sans-serif!important;
+
+}
+
+.text1{
+    font-family: 'Roboto', sans-serif!important;
+    color: black!important;
+    direction: row;
+    justify-content: center;
+    align-items: center;
+     padding-top: 5px;
+    font-size: 17px!important;
+   
+}
+
+.border{
+    border-radius: 5px;
+    max-width: 100%;
+}
+
+.border3{
+    border-radius: 20px;
+    box-shadow: red!important;
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.veja{
+    text-align: right;
+    font-size: 20px!important;
+    color: #50BFBF!important;
+    font-weight: bold;
+    padding-right: 40px;
+}
+
+.p{
+    padding: 2%;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+    color: #50BFBF;
+}
+
+.cor{
+    background-color: #50BFBF;
+    border-radius: 10px;
+    padding-right: 42%;
+}
+
+.image{
+    max-width: 15vh;
+}

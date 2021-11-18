@@ -1,0 +1,27 @@
+.caixa{
+    background-color: #3F51B5;
+}
+
+.titulo{
+   color: white !important;
+   font-weight: bold !important;
+}
+
+.botao{
+    border-color: white !important;
+    background-color: #3F51B5;
+    color: white !important;
+}
+
+.postagens{
+    background-color: white;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.listaTema{
+    background: rgb(191,225,233)!important;
+    background: linear-gradient(90deg, rgba(191,225,233,0.6699054621848739) 11%, rgba(158,188,221,1) 42%, rgba(124,188,203,0.896796218487395) 70%)!important;
+}
